@@ -270,11 +270,11 @@ var XY = {
     "Focus Energy": {
         "bp": 0,
         "category": "Status",
-        "type": "Normal"
+        "type": "Fighting"
     },
     "Fury Attack": {
         "bp": 20,
-        "type": "Normal",
+        "type": "Flying",
         "multihit": [
             3,
             5
@@ -284,7 +284,7 @@ var XY = {
     },
     "Fury Swipes": {
         "bp": 20,
-        "type": "Normal",
+        "type": "Dark",
         "multihit": [
             3,
             5
@@ -494,6 +494,10 @@ var XY = {
     "Skull Bash": {
         "bp": 120,
         "type": "Steel",
+        "recoil": [
+            33,
+            100
+        ],
         "makesContact": true,
         "category": "Physical"
     },
@@ -641,7 +645,7 @@ var XY = {
     },
     "Wrap": {
         "bp": 25,
-        "type": "Normal",
+        "type": "Poison",
         "makesContact": true,
         "category": "Physical"
     },
@@ -655,7 +659,7 @@ var XY = {
     "Leer": {
         "bp": 0,
         "category": "Status",
-        "type": "Normal",
+        "type": "Dark",
         "target": "allAdjacentFoes"
     },
     "Low Kick": {
@@ -678,12 +682,12 @@ var XY = {
     "Sky Attack": {
         "bp": 150,
         "type": "Flying",
+        "makesContact": true,
         "category": "Physical",
-        "secondaries": true
     },
     "String Shot": {
         "bp": 55,
-        "category": "Special",
+        "category": "Physical",
         "type": "Bug",
         "target": "allAdjacentFoes"
     },
@@ -707,7 +711,7 @@ var XY = {
     "Flash": {
         "bp": 0,
         "category": "Status",
-        "type": "Normal"
+        "type": "Electric"
     },
     "Hypnosis": {
         "bp": 0,
@@ -947,9 +951,10 @@ var XY = {
         "secondaries": true
     },
     "Horn Attack": {
-        "bp": 65,
+        "bp": 70,
         "type": "Normal",
         "makesContact": true,
+        "willCrit": true,
         "category": "Physical"
     },
     "Ice Punch": {
@@ -973,13 +978,7 @@ var XY = {
         "makesContact": true,
         "isPunch": true,
         "category": "Physical"
-    },
-    "Paleo Wave": {
-        "bp": 85,
-        "type": "Rock",
-        "category": "Special",
-        "secondaries": true
-    },
+ },
     "Pay Day": {
         "bp": 60,
         "type": "Normal",
@@ -990,13 +989,6 @@ var XY = {
         "type": "Flying",
         "makesContact": true,
         "category": "Physical"
-    },
-    "Polar Flare": {
-        "bp": 75,
-        "type": "Fire",
-        "target": "allAdjacentFoes",
-        "category": "Special",
-        "secondaries": true
     },
     "Pound": {
         "bp": 40,
@@ -1023,13 +1015,6 @@ var XY = {
         "makesContact": true,
         "category": "Physical"
     },
-    "Shadow Strike": {
-        "bp": 80,
-        "type": "Ghost",
-        "makesContact": true,
-        "category": "Physical",
-        "secondaries": true
-    },
     "Slam": {
         "bp": 70,
         "type": "Dragon",
@@ -1051,6 +1036,7 @@ var XY = {
         "type": "Normal",
         "makesContact": true,
         "category": "Physical"
+        "secondaries": true
     },
     "Thunder Punch": {
         "bp": 80,
@@ -1152,7 +1138,7 @@ var XY = {
         "type": "Normal"
     },
     "Future Sight": {
-        "bp": 100,
+        "bp": 140,
         "type": "Psychic",
         "category": "Special"
     },
@@ -1177,7 +1163,7 @@ var XY = {
     "Mind Reader": {
         "bp": 0,
         "category": "Status",
-        "type": "Normal"
+        "type": "Psychic"
     },
     "Mirror Coat": {
         "bp": 0,
@@ -1187,12 +1173,12 @@ var XY = {
     "Moonlight": {
         "bp": 0,
         "category": "Status",
-        "type": "Normal"
+        "type": "Fairy"
     },
     "Morning Sun": {
         "bp": 0,
         "category": "Status",
-        "type": "Normal"
+        "type": "Fire"
     },
     "Nightmare": {
         "bp": 0,
@@ -1370,6 +1356,7 @@ var XY = {
         "type": "Normal",
         "makesContact": true,
         "category": "Physical"
+        "secondaries": true
     },
     "Rock Smash": {
         "bp": 50,
@@ -1392,8 +1379,7 @@ var XY = {
         "bp": 150,
         "type": "Electric",
         "category": "Special",
-        "secondaries": true
-    },
+        },
     "Cotton Spore": {
         "bp": 0,
         "category": "Status",
@@ -1608,6 +1594,7 @@ var XY = {
         "type": "Bug",
         "makesContact": true,
         "category": "Physical"
+        "secondaries": true
     },
     "Metal Claw": {
         "bp": 60,
@@ -2063,7 +2050,7 @@ var XY = {
         "secondaries": true
     },
     "Rock Tomb": {
-        "bp": 65,
+        "bp": 55,
         "type": "Rock",
         "category": "Physical",
         "secondaries": true
@@ -2619,6 +2606,7 @@ var XY = {
         "bp": 80,
         "type": "Rock",
         "category": "Special"
+        "secondaries": true
     },
     "Psycho Shift": {
         "bp": 0,
@@ -2887,6 +2875,7 @@ var XY = {
         "type": "Grass",
         "makesContact": true,
         "category": "Physical"
+        "secondaries": true
     },
     "Psycho Cut": {
         "bp": 70,
@@ -2906,6 +2895,7 @@ var XY = {
         "bp": 80,
         "type": "Grass",
         "category": "Physical"
+        "secondaries": true
     },
     "Shadow Claw": {
         "bp": 70,
@@ -2924,6 +2914,7 @@ var XY = {
         "bp": 120,
         "type": "Rock",
         "category": "Physical"
+        "secondaries": true
     },
     "Thunder Fang": {
         "bp": 65,
@@ -3571,6 +3562,7 @@ var XY = {
         "type": "Dark",
         "category": "Physical",
         "makesContact": true
+        "ignoreDefensive": true
     },
     "Last Respects": {
         "bp": 80,

@@ -1035,7 +1035,7 @@ var XY = {
         "bp": 85,
         "type": "Normal",
         "makesContact": true,
-        "category": "Physical"
+        "category": "Physical",
         "secondaries": true
     },
     "Thunder Punch": {

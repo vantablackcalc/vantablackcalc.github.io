@@ -1355,7 +1355,7 @@ var XY = {
         "bp": 50,
         "type": "Normal",
         "makesContact": true,
-        "category": "Physical"
+        "category": "Physical",
         "secondaries": true
     },
     "Rock Smash": {
@@ -1593,7 +1593,7 @@ var XY = {
         "bp": 120,
         "type": "Bug",
         "makesContact": true,
-        "category": "Physical"
+        "category": "Physical",
         "secondaries": true
     },
     "Metal Claw": {
@@ -2605,7 +2605,7 @@ var XY = {
     "Power Gem": {
         "bp": 80,
         "type": "Rock",
-        "category": "Special"
+        "category": "Special",
         "secondaries": true
     },
     "Psycho Shift": {
@@ -2874,7 +2874,7 @@ var XY = {
         "bp": 120,
         "type": "Grass",
         "makesContact": true,
-        "category": "Physical"
+        "category": "Physical",
         "secondaries": true
     },
     "Psycho Cut": {
@@ -2894,7 +2894,7 @@ var XY = {
     "Seed Bomb": {
         "bp": 80,
         "type": "Grass",
-        "category": "Physical"
+        "category": "Physical",
         "secondaries": true
     },
     "Shadow Claw": {
@@ -2913,7 +2913,7 @@ var XY = {
     "Stone Edge": {
         "bp": 120,
         "type": "Rock",
-        "category": "Physical"
+        "category": "Physical",
         "secondaries": true
     },
     "Thunder Fang": {
@@ -3561,7 +3561,7 @@ var XY = {
         "bp": 90,
         "type": "Dark",
         "category": "Physical",
-        "makesContact": true
+        "makesContact": true,
         "ignoreDefensive": true
     },
     "Last Respects": {

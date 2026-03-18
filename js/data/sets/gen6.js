@@ -240,7 +240,7 @@ var SETDEX_XY = {
   "Swadloon": {
   },
   "Leavanny": {
-    "Burgh (Castelia City Gym)": {"level":26,"ability":"Analytic","item":"Focus Sash","nature":"Quiet","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Razor Leaf","String Shot","Struggle Bug","Protect"]},
+    "Burgh (Castelia City Gym)": {"level":26,"ability":"Adaptability","item":"Focus Sash","nature":"Quiet","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Razor Leaf","String Shot","Struggle Bug","Protect"]},
   },
   "Venipede": {
   },
@@ -253,7 +253,7 @@ var SETDEX_XY = {
   "Cottonee": {
   },
   "Whimsicott": {
-    "Burgh (Castelia City Gym)": {"level":26,"ability":"Friend Guard","item":"Big Root","nature":"Careful","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Giga Drain","Cotton Spore","Grasswhistle","Helping Hand"]},
+    "Burgh (Castelia City Gym)": {"level":26,"ability":"Friend Guard","item":"Big Root","nature":"Careful","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Giga Drain","Cotton Spore","Grass Whistle","Helping Hand"]},
     "Iris (Lacunosa Town)": {"level":64,"ability":"Prankster","item":"White Herb","nature":"Bold","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Leaf Storm","Fairy Wind","Shadow Ball","Encore"]},
   },
   "Petilil": {

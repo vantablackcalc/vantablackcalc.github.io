@@ -980,7 +980,7 @@ var XY = {
         "category": "Physical"
  },
     "Pay Day": {
-        "bp": 60,
+        "bp": 40,
         "type": "Normal",
         "category": "Physical"
     },

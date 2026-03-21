@@ -259,7 +259,7 @@ var SETDEX_XY = {
   "Petilil": {
   },
   "Lilligant": {
-    "Elesa (Nimbasa City Gym)": {"level":32,"ability":"Flower Gift","item":"Heat Rock","nature":"Brave","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Giga Drain","Sunny Day","Aromatheropy","Helping Hand"]},
+    "Elesa (Nimbasa City Gym)": {"level":32,"ability":"Flower Gift","item":"Heat Rock","nature":"Brave","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Giga Drain","Sunny Day","Aromatherapy","Helping Hand"]},
   },
   "Lilligant-Hisui": {
   },

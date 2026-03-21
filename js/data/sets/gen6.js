@@ -114,8 +114,8 @@ var SETDEX_XY = {
     "Bianca (Castelia City Gate - Tepig)": {"level":25,"ability":"Defiant","nature":"Docile","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Bite","Covet","Grasswhistle"]},
     "Bianca (Driftveil City - Tepig)": {"level":38,"ability":"Defiant","nature":"Calm","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Acrobatics","Low Kick","Synthesis"]},
     "Bianca (Route 8 - Tepig)": {"level":60,"ability":"Defiant","nature":"Calm","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Power Whip","Gunk Shot","Swords Dance","Synthesis"]},
-    "Cheren (Route 4 - Tepig)": {"level":28,"ability":"Defiant","item":"Mystic Water","nature":"Quirky","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Bite","Low Kick","Grasswhistle"]},
-    "Cheren (Route 5 - Tepig)": {"level":34,"ability":"Defiant","item":"Mystic Water","nature":"Docile","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Acrobatics","Payback","Grasswhistle"]},
+    "Cheren (Route 4 - Tepig)": {"level":28,"ability":"Defiant","item":"Miracle Seed","nature":"Quirky","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Bite","Low Kick","Grass Whistle"]},
+    "Cheren (Route 5 - Tepig)": {"level":34,"ability":"Defiant","item":"Miracle Seed","nature":"Docile","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Acrobatics","Payback","Grass Whistle"]},
     "Cheren (Twist Mountain - Tepig)": {"level":46,"ability":"Defiant","item":"Air Balloon","nature":"Adamant","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Acrobatics","Gunk Shot","Grass Pledge"]},
   },  
   "Pansear": {

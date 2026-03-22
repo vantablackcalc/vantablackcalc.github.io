@@ -281,9 +281,9 @@ var SETDEX_XY = {
   "Sandile": {
   },
   "Krokorok": {
-    "Cheren (Route 5 - Snivy)": {"level":34,"ability":"Intimidate","item":"Blackglasses","nature":"Sassy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Crunch","Dig","Rock Tomb","Swagger"]},
-    "Cheren (Route 5 - Oshawott)": {"level":34,"ability":"Intimidate","item":"Blackglasses","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Crunch","Dig","Rock Tomb","Swagger"]},
-    "Cheren (Route 5 - Tepig)": {"level":34,"ability":"Intimidate","item":"Blackglasses","nature":"Bashful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Crunch","Dig","Rock Tomb","Swagger"]},
+    "Cheren (Route 5 - Snivy)": {"level":34,"ability":"Intimidate","item":"Black Glasses","nature":"Sassy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Crunch","Dig","Rock Tomb","Swagger"]},
+    "Cheren (Route 5 - Oshawott)": {"level":34,"ability":"Intimidate","item":"Black Glasses","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Crunch","Dig","Rock Tomb","Swagger"]},
+    "Cheren (Route 5 - Tepig)": {"level":34,"ability":"Intimidate","item":"Black Glasses","nature":"Bashful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Crunch","Dig","Rock Tomb","Swagger"]},
     "N (Nimbasa City)": {"level":29,"ability":"Intimidate","nature":"Lax","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Crunch","Mud Shot","Embargo","Swagger"]},
   },
   "Krookodile": {
@@ -293,7 +293,7 @@ var SETDEX_XY = {
     "Cheren (Route 10 - Snivy)": {"level":66,"ability":"Intimidate","item":"Expert Belt","nature":"Sassy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Earthquake","Crunch","Close Combat","Stone Edge"]},
     "Cheren (Route 10 - Oshawott)": {"level":66,"ability":"Intimidate","item":"Expert Belt","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Earthquake","Crunch","Close Combat","Stone Edge"]},
     "Cheren (Route 10 - Tepig)": {"level":66,"ability":"Intimidate","item":"Expert Belt","nature":"Bashful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Earthquake","Crunch","Close Combat","Stone Edge"]},
-    "Clay (Driftveil City Gym)": {"level":40,"ability":"Intimidate","item":"Blackglasses","nature":"Quirky","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Bulldoze","Crunch","Close Combat","Swagger"]},
+    "Clay (Driftveil City Gym)": {"level":40,"ability":"Intimidate","item":"Black Glasses","nature":"Quirky","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Bulldoze","Crunch","Close Combat","Swagger"]},
     "Grimsley (Pokemon League)": {"level":70,"ability":"Moxie","item":"Expert Belt","nature":"Jolly","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Earthquake","Crunch","Close Combat","Dragon Claw"]},
     "Dwun (Chargestone Cave)": {"level":42,"ability":"Moxie","item":"Bright Powder","nature":"Adamant","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["High Horsepower","Crunch","Fire Fang","Thunder Fang"]},    
   },

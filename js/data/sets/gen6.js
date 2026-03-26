@@ -265,13 +265,13 @@ var SETDEX_XY = {
   },
   "Basculin-Red-Striped": {
     "Cheren (Route 4 - Snivy)": {"level":26,"ability":"Adaptability","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Aqua Jet","Crunch","Take Down","Cut"]},
-    "DaSquyd (P2 Laboratory)": {"level":48,"ability":"Adaptability","item":"Life Orb","nature":"Adamant","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Aqua Jet","Crunch","U-Turn"]},
+    "DaSquyd (P2 Laboratory)": {"level":48,"ability":"Adaptability","item":"Life Orb","nature":"Adamant","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Aqua Jet","Crunch","U-turn"]},
   },
   "Basculegion-Male": {
     "Cheren (Route 5 - Snivy)": {"level":36,"ability":"Adaptability","item":"Muscle Band","nature":"Bashful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Aqua Jet","Last Respects","Ice Fang","Strength"]},
     "Cheren (Twist Mountain - Snivy)": {"level":48,"ability":"Adaptability","item":"Life Orb","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Wave Crash","Last Respects","Double-Edge","Ice Fang"]},
     "Cheren (Route 10 - Snivy)": {"level":66,"ability":"Adaptability","item":"Life Orb","nature":"Bashful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Wave Crash","Shadow Force","Head Smash","Ice Fang"]},
-    "Frost (Victory Road)": {"level":66,"ability":"Swift Swim","item":"Sitrus Berry","nature":"Jolly","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Last Respects","Head Smash","U-Turn"]},
+    "Frost (Victory Road)": {"level":66,"ability":"Swift Swim","item":"Sitrus Berry","nature":"Jolly","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Last Respects","Head Smash","U-turn"]},
   },
   "Basculin-Blue-Striped": {
   },
@@ -395,7 +395,7 @@ var SETDEX_XY = {
   "Swanna": {
     "Skyla (Mistralton City Gym)": {"level":46,"ability":"Drizzle","item":"Mystic Water","nature":"Mild","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Surf","Razor Wind","Icy Wind","Rain Dance"]},
     "DaSquyd (P2 Laboratory)": {"level":48,"ability":"Drizzle","item":"Focus Sash","nature":"Docile","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Weather Ball","Razor Wind","Icy Wind","Tailwind"]},
-    "Frost (Victory Road)": {"level":68,"ability":"Drizzle","item":"Wacan Berry","nature":"Modest","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Hurricane","Weather Ball","U-Turn","Roost"]},
+    "Frost (Victory Road)": {"level":68,"ability":"Drizzle","item":"Wacan Berry","nature":"Modest","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Hurricane","Weather Ball","U-turn","Roost"]},
   },
   "Vanillite": {
     "N (Nimbasa City)": {"level":29,"ability":"Ice Body","nature":"Modest","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Draining Kiss","Icicle Spear","Water Pulse","Natural Gift"]},
@@ -528,7 +528,7 @@ var SETDEX_XY = {
   },
   "Accelgor": {
     "Grimsley (Pokemon League)": {"level":68,"ability":"Tinted Lens","item":"Focus Sash","nature":"Naive","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Attack Order","Dark Pulse","Final Gambit","Spikes"]},
-    "Frost (Victory Road)": {"level":68,"ability":"Tinted Lens","item":"Life Orb","nature":"Timid","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Attack Order","Dark Pulse","Octazooka","U-Turn"]},
+    "Frost (Victory Road)": {"level":68,"ability":"Tinted Lens","item":"Life Orb","nature":"Timid","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Attack Order","Dark Pulse","Octazooka","U-turn"]},
   },
   "Stunfisk": {
     "Elesa (Nimbasa City Gym)": {"level":32,"ability":"Static","item":"Quick Claw","nature":"Quiet","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Discharge","Volt Switch","Mud Shot","Endure"]},
@@ -538,9 +538,9 @@ var SETDEX_XY = {
   "Mienfoo": {
   },
   "Mienshao": {
-    "Marshal (Pokemon League)": {"level":70,"ability":"Reckless","item":"Expert Belt","nature":"Serious","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["High Jump Kick","Mega Kick","Strength","U-Turn"]},
+    "Marshal (Pokemon League)": {"level":70,"ability":"Reckless","item":"Expert Belt","nature":"Serious","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["High Jump Kick","Mega Kick","Strength","U-turn"]},
     "Nightdazer (Route 18)": {"level":48,"ability":"Inner Focus","item":"Focus Sash","nature":"Bashful","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Aura Sphere","Extrasensory","Shadow Ball","Calm Mind"]},
-    "Estreth (Twist Mountain)": {"level":48,"ability":"Reckless","item":"Expert Belt","nature":"Lonely","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Jump Kick","Knock Off","Blaze Kick","U-Turn"]},
+    "Estreth (Twist Mountain)": {"level":48,"ability":"Reckless","item":"Expert Belt","nature":"Lonely","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Jump Kick","Knock Off","Blaze Kick","U-turn"]},
   },
   "Druddigon": {
     "Drayden (Opelucid City Gym)": {"level":64,"ability":"Rough Skin","item":"Rocky Helmet","nature":"Sassy","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Dragon Claw","Superpower","Rock Climb","Stealth Rock"]},
@@ -608,7 +608,7 @@ var SETDEX_XY = {
   "Virizion": {
   },
   "Tornadus": {
-    "Frost (Victory Road)": {"level":68,"ability":"Prankster","item":"Sharp Beak","nature":"Rash","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Hurricane","Weather Ball","U-Turn","Nasty Plot"]},
+    "Frost (Victory Road)": {"level":68,"ability":"Prankster","item":"Sharp Beak","nature":"Rash","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Hurricane","Weather Ball","U-turn","Nasty Plot"]},
   },
   "Tornadus-Therian": {
     "Skyla (Mistralton City Gym)": {"level":46,"ability":"Regenerator","item":"Sharp Beak","nature":"Careful","ivs":{"hp":9,"at":9,"df":9,"sa":9,"sp":9,"sd":9},"moves":["Bleakwind Storm","Acrobatics","Brick Break","Swagger"]},

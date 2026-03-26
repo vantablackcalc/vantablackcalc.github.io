@@ -263,7 +263,7 @@ var SETDEX_XY = {
   },
   "Lilligant-Hisui": {
   },
-  "Basculin-Red-Stripe": {
+  "Basculin-Red-Striped": {
     "Cheren (Route 4 - Snivy)": {"level":26,"ability":"Adaptability","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Aqua Jet","Crunch","Take Down","Cut"]},
     "DaSquyd (P2 Laboratory)": {"level":48,"ability":"Adaptability","item":"Life Orb","nature":"Adamant","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Aqua Jet","Crunch","U-Turn"]},
   },
@@ -273,7 +273,7 @@ var SETDEX_XY = {
     "Cheren (Route 10 - Snivy)": {"level":66,"ability":"Adaptability","item":"Life Orb","nature":"Bashful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Wave Crash","Shadow Force","Head Smash","Ice Fang"]},
     "Frost (Victory Road)": {"level":66,"ability":"Swift Swim","item":"Sitrus Berry","nature":"Jolly","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Last Respects","Head Smash","U-Turn"]},
   },
-  "Basculin-Blue-Stripe": {
+  "Basculin-Blue-Striped": {
   },
   "Basculegion-Female": {
     "Shauntal (Pokemon League)": {"level":70,"ability":"Adaptability","item":"Mystic Water","nature":"Hasty","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Muddy Water","Shadow Ball","Icy Wind","Agility"]},
@@ -461,7 +461,8 @@ var SETDEX_XY = {
   },
    "Ferrothorn": {
     "Bianca (Route 8 - Oshawott)": {"level":60,"ability":"Iron Barbs","nature":"Brave","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Power Whip","Iron Head","Knock Off","Leech Seed"]},
-    "Cheren (Route 10 - Tepig)": {"level":64,"ability":"Iron Barbs","nature":"Lonely","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Power Whip","Iron Head","Knock Off","Toxic"]},
+    "Cheren (Route 10 - Tepig)": {"level":64,"ability":"Iron Barbs","item":"Leftovers","nature":"Lonely","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Power Whip","Iron Head","Knock Off","Toxic"]},
+    "N (Chargestone Cave)": {"level":43,"ability":"Iron Barbs","item":"Sticky Barb","nature":"Careful","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Seed Bomb","Spikes","Leech Seed","Self-Destruct"]},
   },
    "Klink": {
   },
@@ -469,6 +470,7 @@ var SETDEX_XY = {
     "N (Chargestone Cave)": {"level":43,"ability":"Levitate","nature":"Gentle","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Gear Grind","Spark","Autotomize","Screech"]},
   },
   "Klinklang": {
+    "Skyla (Mistralton City Gym)": {"level":44,"ability":"Lightningrod","item":"Air Balloon","nature":"Quiet","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Gear Grind","Wild Charge","Earthquake","Wide Guard"]},
     "N (N's Castle)": {"level":70,"ability":"Levitate","item":"Sitrus Berry","nature":"Hardy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Skull Bash","Volt Tackle","Earthquake","Shift Gear"]},
     "DaSquyd (P2 Laboratory)": {"level":48,"ability":"Lightningrod","item":"Air Balloon","nature":"Serious","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Gear Grind","Volt Switch","Thunder Wave","Screech"]},
     "Frost (Victory Road)": {"level":66,"ability":"Lightningrod","item":"Leftovers","nature":"Brave","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Gear Grind","Earthquake","Volt Switch","Thunder Wave"]},

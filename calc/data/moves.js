@@ -1568,11 +1568,14 @@ var XY = {
         "category": "Physical"
     },
     "Flame Wheel": {
-        "bp": 60,
+        "bp": 90,
         "type": "Fire",
         "makesContact": true,
         "category": "Physical",
-        "secondaries": true
+        "recoil": [
+            33,
+            100
+        ],
     },
     "Iron Tail": {
         "bp": 120,

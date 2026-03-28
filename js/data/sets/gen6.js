@@ -31,13 +31,13 @@ var SETDEX_XY = {
   },
   "Pignite": {
     "Bianca (Castelia City Gate - Tepig)": {"level":27,"ability":"Blaze","nature":"Brave","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Stomp","Flame Charge","Yawn","Defense Curl"]},
-    "Cheren (Route 4 - Tepig)": {"level":28,"ability":"Thick Fat","item":"Sitrus Berry","nature":"Naughty","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Stomp","Flame Charge","Take Down","Defense Curl"]},    
+    "Cheren (Route 4 - Tepig)": {"level":28,"ability":"Thick Fat","item":"Sitrus Berry","nature":"Naughty","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Stomp","Flame Wheel","Take Down","Defense Curl"]},    
   },
   "Emboar": {
     "Bianca (Driftveil City - Tepig)": {"level":40,"ability":"Rock Head","nature":"Modest","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["High Horsepower","Heat Crash","Hammer Arm","Defense Curl",]},    
     "Bianca (Route 8 - Tepig)": {"level":62,"ability":"Rock Head","nature":"Brave","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Flare Blitz","High Horsepower","Head Smash","Sucker Punch",]},    
-    "Cheren (Route 5 - Tepig)": {"level":36,"ability":"Rock Head","item":"Chesto Berry","nature":"Bashful","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Heat Crash","Hammer Arm","Take Down","Rest"]},    
-    "Cheren (Twist Mountain - Tepig)": {"level":48,"ability":"Rock Head","item":"Sitrus Berry","nature":"Sassy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Heat Crash","Fire Pledge","Earthquake","Hammer Arm",]},    
+    "Cheren (Route 5 - Tepig)": {"level":36,"ability":"Rock Head","item":"Chesto Berry","nature":"Bashful","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Flame Wheel","Hammer Arm","Take Down","Rest"]},    
+    "Cheren (Twist Mountain - Tepig)": {"level":48,"ability":"Rock Head","item":"Sitrus Berry","nature":"Sassy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Flame Wheel","Fire Pledge","Earthquake","Hammer Arm",]},    
     "Cheren (Route 10 - Tepig)": {"level":66,"ability":"Rock Head","item":"Sitrus Berry","nature":"Relaxed","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Flare Blitz","Earthquake","Head Smash","Hammer Arm"]},    
   },
   "Oshawott": {

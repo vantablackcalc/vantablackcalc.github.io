@@ -1570,12 +1570,12 @@ var XY = {
     "Flame Wheel": {
         "bp": 90,
         "type": "Fire",
-        "makesContact": true,
-        "category": "Physical",
         "recoil": [
             33,
             100
-        ],
+        ],        
+        "makesContact": true,
+        "category": "Physical",
     },
     "Iron Tail": {
         "bp": 120,

@@ -2395,7 +2395,7 @@ var XY = {
         "type": "Psychic"
     },
     "Head Smash": {
-        "bp": 150,
+        "bp": 120,
         "type": "Rock",
         "recoil": [
             1,
@@ -2533,9 +2533,9 @@ var XY = {
     },
     "Wring Out": {
         "bp": 0,
-        "type": "Normal",
+        "type": "Dragon",
         "makesContact": true,
-        "category": "Special"
+        "category": "Physical"
     },
     "Air Slash": {
         "bp": 80,
@@ -4487,7 +4487,7 @@ var DPP_PATCH = {
     Fling: { bp: 0, type: 'Dark', category: 'Physical' },
     Gravity: { bp: 0, type: 'Psychic' },
     'Head Smash': {
-        bp: 150,
+        bp: 120,
         type: 'Rock',
         recoil: [1, 2],
         makesContact: true,
@@ -4558,9 +4558,9 @@ var DPP_PATCH = {
     'Worry Seed': { bp: 0, type: 'Grass' },
     'Wring Out': {
         bp: 0,
-        type: 'Normal',
+        type: 'Dragon',
         makesContact: true,
-        category: 'Special'
+        category: 'Physical'
     },
     'Air Slash': { bp: 75, type: 'Flying', category: 'Special' },
     'Aura Sphere': { bp: 90, type: 'Fighting', category: 'Special' },

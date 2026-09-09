@@ -52,13 +52,15 @@ var SETDEX_XY = {
     "Cheren (Route 4 - Oshawott)": {"level":28,"ability":"Torrent","item":"Sitrus Berry","nature":"Serious","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Bite","Aerial Ace","Encore"]},    
   },
   "Samurott": {
-    "Bianca (Driftveil City - Oshawott)": {"level":40,"ability":"Shell Armor","nature":"Gentle","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Ceasless Edge","Aerial Ace","Hone Claws"]},        
-    "Bianca (Route 8 - Oshawott)": {"level":62,"ability":"Shell Armor","nature":"Timid","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Hydro Pump","Dark Pulse","Air Slash","Aqua Jet"]},    
-    "Cheren (Route 5 - Oshawott)": {"level":36,"ability":"Shell Armor","item":"Chesto Berry","nature":"Lonely","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Ceasless Edge","Razor Shell","Aerial Ace","Rest"]},    
-    "Cheren (Twist Mountain - Oshawott)": {"level":48,"ability":"Shell Armor","item":"Sitrus Berry","nature":"Bold","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Wave Crash","Water Pledge","Ceasless Edge","X-Scissor"]},    
-    "Cheren (Route 10 - Oshawott)": {"level":66,"ability":"Shell Armor","item":"Sitrus Berry","nature":"Mild","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Hydro Pump","Dark Pulse","Air Slash","Megahorn"]},    
-    "Dwun (Chargestone Cave)": {"level":42,"ability":"Shell Armor","item":"Bright Powder","nature":"Hasty","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Scald","Ceasless Edge","Megahorn","Hone Claws"]},    
-    "Estreth (Twist Mountain)": {"level":48,"ability":"Shell Armor","item":"Sitrus Berry","nature":"Hasty","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Ice Beam","Ceasless Edge","Hone Claws"]},    
+    "Bianca (Driftveil City - Oshawott)": {"level":40,"ability":"Tough Claws","nature":"Gentle","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Ceasless Edge","Aerial Ace","Hone Claws"]},        
+    "Bianca (Route 8 - Oshawott)": {"level":62,"ability":"Tough Claws","nature":"Timid","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Hydro Pump","Dark Pulse","Air Slash","Aqua Jet"]},    
+    "Cheren (Route 5 - Oshawott)": {"level":36,"ability":"Tough Claws","item":"Chesto Berry","nature":"Lonely","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Ceasless Edge","Razor Shell","Aerial Ace","Rest"]},    
+    "Cheren (Twist Mountain - Oshawott)": {"level":48,"ability":"Tough Claws","item":"Sitrus Berry","nature":"Bold","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Wave Crash","Water Pledge","Ceasless Edge","X-Scissor"]},    
+    "Cheren (Route 10 - Oshawott)": {"level":66,"ability":"Tough Claws","item":"Sitrus Berry","nature":"Mild","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Hydro Pump","Dark Pulse","Air Slash","Megahorn"]},    
+    "Dwun (Chargestone Cave)": {"level":42,"ability":"Tough Claws","item":"Bright Powder","nature":"Hasty","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Scald","Ceasless Edge","Megahorn","Hone Claws"]},    
+  },
+  "Samurott-Ancient": {
+    "Estreth (Twist Mountain)": {"level":48,"ability":"Intimidate","item":"Sitrus Berry","nature":"Hasty","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Ice Beam","Brick Break","No Retreat"]},    
   },
   "Patrat": {
     "N (Accumula Town)": {"level":7,"ability":"Keen Eye","nature":"Lax","ivs":{"hp":0,"at":0,"df":0,"sa":0,"sp":0,"sd":0},"moves":["Tackle","Pursuit","Leer"]},

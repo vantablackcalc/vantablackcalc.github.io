@@ -3628,6 +3628,10 @@ var XY = {
         "bp": 0,
         "type": "Fighting"
     },
+    "No Retreat": {
+        "bp": 0,
+        "type": "Fighting"
+    },
     "Wave Crash": {
         "bp": 120,
         "type": "Water",

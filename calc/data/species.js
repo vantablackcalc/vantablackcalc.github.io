@@ -12535,7 +12535,25 @@ var XY = {
         },
         "weightkg": 94.6,
         "abilities": {
-            "0": "Shell Armor"
+            "0": "Tough Claws"
+        }
+    },
+        "Samurott-Ancient": {
+        "types": [
+            "Water",
+            "Fighting"
+        ],
+        "bs": {
+            "hp": 90,
+            "at": 118,
+            "df": 80,
+            "sa": 92,
+            "sd": 70,
+            "sp": 85
+        },
+        "weightkg": 94.6,
+        "abilities": {
+            "0": "Intimidate"
         }
     },
     "Sandile": {

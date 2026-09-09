@@ -182,7 +182,6 @@ var SETDEX_XY = {
   },
   "Zebstrika": {
     "Elesa (Nimbasa City Gym)": {"level":34,"ability":"Sap Sipper","item":"Cell Battery","nature":"Hardy","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Spark","Volt Switch","Flame Charge","Low Kick"]},
-    "Dwun (Chargestone Cave)": {"level":42,"ability":"Lightningrod","item":"Bright Powder","nature":"Rash","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Discharge","Flare Blitz","Return","Low Kick"]},
   },
   "Roggenrola": {
     "Cilan (Striaton City Gym)": {"level":12,"ability":"Sturdy","nature":"Brave","ivs":{"hp":6,"at":6,"df":6,"sa":6,"sp":6,"sd":6},"moves":["Rock Throw","Tackle","Work Up"]},
@@ -616,6 +615,7 @@ var SETDEX_XY = {
     "Skyla (Mistralton City Gym)": {"level":46,"ability":"Regenerator","item":"Sharp Beak","nature":"Careful","ivs":{"hp":9,"at":9,"df":9,"sa":9,"sp":9,"sd":9},"moves":["Bleakwind Storm","Acrobatics","Brick Break","Swagger"]},
   },
   "Thundurus": {
+    "Dwun (Chargestone Cave)": {"level":42,"ability":"Defiant","item":"Bright Powder","nature":"Brave","ivs":{"hp":9,"at":9,"df":9,"sa":9,"sp":9,"sd":9},"moves":["Wild Charge","Zen Headbutt","Bite","Revenge"]},
   },
   "Thundurus-Therian": {
     "Frost (Victory Road)": {"level":68,"ability":"Volt Absorb","item":"Magnet","nature":"Hasty","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Thunder","Weather Ball","Volt Switch","Nasty Plot"]},

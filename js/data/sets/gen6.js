@@ -4,13 +4,13 @@ var SETDEX_XY = {
   "Snivy": {
     "Bianca (Nuvema Town - Snivy)": {"level":5,"ability":"Overgrow","nature":"Lonely","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Leer"]},
     "Bianca (Route 2 - Snivy)": {"level":8,"ability":"Overgrow","nature":"Timid","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Vine Whip","Tackle","Leer"]},
-    "Cheren (Nuvema Town - Snivy)": {"level":5,"ability":"Contrary","nature":"Lax","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Leer"]},
-    "Cheren (Trainer School - Snivy)": {"level":10,"ability":"Contrary","item":"Oran Berry","nature":"Naive","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Vine Whip","Tackle","Wrap","Leer"]},
-    "Cheren (Route 3 - Snivy)": {"level":16,"ability":"Contrary","item":"Oran Berry","nature":"Naive","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Leaf Tornado","Vine Whip","Wrap","Growth"]},
+    "Cheren (Nuvema Town - Snivy)": {"level":5,"ability":"Overgrow","nature":"Lax","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Leer"]},
+    "Cheren (Trainer School - Snivy)": {"level":10,"ability":"Overgrow","item":"Oran Berry","nature":"Naive","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Vine Whip","Tackle","Wrap","Leer"]},
+    "Cheren (Route 3 - Snivy)": {"level":16,"ability":"Overgrow","item":"Oran Berry","nature":"Naive","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Leaf Tornado","Vine Whip","Wrap","Growth"]},
   },
   "Servine": {
     "Bianca (Castelia City Gate - Snivy)": {"level":27,"ability":"Overgrow","nature":"Adamant","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Leaf Tornado","Glare","Leech Seed","Growth"]},
-    "Cheren (Route 4 - Snivy)": {"level":28,"ability":"Contrary","item":"Sitrus Berry","nature":"Quiet","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Leaf Tornado","Slam","Leech Seed","Coil"]},
+    "Cheren (Route 4 - Snivy)": {"level":28,"ability":"Overgrow","item":"Sitrus Berry","nature":"Quiet","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Leaf Tornado","Slam","Leech Seed","Coil"]},
   },
   "Serperior": {
     "Bianca (Driftveil City- Snivy)": {"level":40,"ability":"Contrary","nature":"Quiet","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Leaf Blade","Dragon Breath","Nature Power","Leech Seed"]},    
@@ -25,13 +25,13 @@ var SETDEX_XY = {
   "Tepig": {
     "Bianca (Nuvema Town - Tepig)": {"level":5,"ability":"Blaze","nature":"Hardy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Tail Whip"]},
     "Bianca (Route 2 - Tepig)": {"level":8,"ability":"Blaze","nature":"Relaxed","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Ember","Tackle","Tail Whip"]},
-    "Cheren (Nuvema Town - Tepig)": {"level":5,"ability":"Thick Fat","nature":"Quiet","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Tail Whip"]},
-    "Cheren (Trainer School - Tepig)": {"level":10,"ability":"Thick Fat","item":"Oran Berry","nature":"Sassy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Ember","Tackle","Rollout","Tail Whip"]},
-    "Cheren (Route 3 - Tepig)": {"level":16,"ability":"Thick Fat","item":"Oran Berry","nature":"Timid","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Flame Charge","Ember","Rollout","Defense Curl",]},
+    "Cheren (Nuvema Town - Tepig)": {"level":5,"ability":"Blaze","nature":"Quiet","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Tail Whip"]},
+    "Cheren (Trainer School - Tepig)": {"level":10,"ability":"Blaze","item":"Oran Berry","nature":"Sassy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Ember","Tackle","Rollout","Tail Whip"]},
+    "Cheren (Route 3 - Tepig)": {"level":16,"ability":"Blaze","item":"Oran Berry","nature":"Timid","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Flame Charge","Ember","Rollout","Defense Curl",]},
   },
   "Pignite": {
     "Bianca (Castelia City Gate - Tepig)": {"level":27,"ability":"Blaze","nature":"Brave","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Stomp","Flame Charge","Yawn","Defense Curl"]},
-    "Cheren (Route 4 - Tepig)": {"level":28,"ability":"Thick Fat","item":"Sitrus Berry","nature":"Naughty","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Stomp","Flame Wheel","Take Down","Defense Curl"]},    
+    "Cheren (Route 4 - Tepig)": {"level":28,"ability":"Blaze","item":"Sitrus Berry","nature":"Naughty","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Stomp","Flame Wheel","Take Down","Defense Curl"]},    
   },
   "Emboar": {
     "Bianca (Driftveil City - Tepig)": {"level":40,"ability":"Rock Head","nature":"Modest","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["High Horsepower","Heat Crash","Hammer Arm","Defense Curl",]},    
@@ -43,13 +43,13 @@ var SETDEX_XY = {
   "Oshawott": {
     "Bianca (Nuvema Town - Oshawott)": {"level":5,"ability":"Torrent","nature":"Bold","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Tail Whip"]},
     "Bianca (Route 2 - Oshawott)": {"level":8,"ability":"Torrent","nature":"Naive","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Water Gun","Tackle","Tail Whip"]},
-    "Cheren (Nuvema Town - Oshawott)": {"level":5,"ability":"Shell Armor","nature":"Hardy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Tail Whip"]},
-    "Cheren (Trainer School - Oshawott)": {"level":10,"ability":"Shell Armor","item":"Oran Berry","nature":"Sassy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Water Gun","Tackle","Tail Whip","Detect"]},
-    "Cheren (Route 3 - Oshawott)": {"level":16,"ability":"Shell Armor","item":"Oran Berry","nature":"Rash","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Water Pulse","Water Gun","Detect","Focus Energy"]},
+    "Cheren (Nuvema Town - Oshawott)": {"level":5,"ability":"Torrent","nature":"Hardy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Tackle","Tail Whip"]},
+    "Cheren (Trainer School - Oshawott)": {"level":10,"ability":"Torrent","item":"Oran Berry","nature":"Sassy","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Water Gun","Tackle","Tail Whip","Detect"]},
+    "Cheren (Route 3 - Oshawott)": {"level":16,"ability":"Torrent","item":"Oran Berry","nature":"Rash","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Water Pulse","Water Gun","Detect","Focus Energy"]},
   },
   "Dewott": {
     "Bianca (Castelia City Gate - Oshawott)": {"level":27,"ability":"Torrent","nature":"Relaxed","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Bite","Encore","Focus Energy"]},
-    "Cheren (Route 4 - Oshawott)": {"level":28,"ability":"Shell Armor","item":"Sitrus Berry","nature":"Serious","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Bite","Aerial Ace","Encore"]},    
+    "Cheren (Route 4 - Oshawott)": {"level":28,"ability":"Torrent","item":"Sitrus Berry","nature":"Serious","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Bite","Aerial Ace","Encore"]},    
   },
   "Samurott": {
     "Bianca (Driftveil City - Oshawott)": {"level":40,"ability":"Shell Armor","nature":"Gentle","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Razor Shell","Ceasless Edge","Aerial Ace","Hone Claws"]},        
@@ -447,6 +447,7 @@ var SETDEX_XY = {
   },
   "Alomomola": {
     "Shadow (Victory Road)": {"level":68,"ability":"Regenerator","item":"Sitrus Berry","nature":"Impish","ivs":{"hp":18,"at":18,"df":18,"sa":18,"sp":18,"sd":18},"moves":["Wave Crash","Play Rough","Baton Pass","Healing Wish"]},    
+    "N (Dragonspiral Tower)": {"level":56,"ability":"Regenerator","item":"Heart Scale","nature":"Relaxed","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Play Rough","Zen Headbutt","Wide Guard","Baton Pass"]},
   },
   "Joltik": {
   },
@@ -572,6 +573,7 @@ var SETDEX_XY = {
     "Cheren (Route 10 - Snivy)": {"level":64,"ability":"Moxie","item":"Flying Gem","nature":"Hardy","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Acrobatics","Superpower","Crush Claw","Dragon Claw"]},
     "Cheren (Route 10 - Oshawott)": {"level":64,"ability":"Moxie","item":"Flying Gem","nature":"Adamant","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Acrobatics","Superpower","Crush Claw","Dragon Claw"]},
     "Cheren (Route 10 - Tepig)": {"level":64,"ability":"Moxie","item":"Flying Gem","nature":"Gentle","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Acrobatics","Superpower","Crush Claw","Dragon Claw"]},
+    "N (Dragonspiral Tower)": {"level":56,"ability":"Tough Claws","item":"Rainbow Wing","nature":"Adamant","ivs":{"hp":24,"at":24,"df":24,"sa":24,"sp":24,"sd":24},"moves":["Superpower","Crush Claw","Sky Uppercut","Whirlwind"]},
   },
   "Braviary-Hisui": {
     "Skyla (Mistralton City Gym)": {"level":44,"ability":"Telepathy","item":"Expert Belt","nature":"Rash","ivs":{"hp":12,"at":12,"df":12,"sa":12,"sp":12,"sd":12},"moves":["Air Slash","Esper Wing","Heat Wave","Tailwind"]},
@@ -621,6 +623,7 @@ var SETDEX_XY = {
   "Reshiram": {
   },
   "Zekrom": {
+    "N (Dragonspiral Tower)": {"level":50,"ability":"Teravolt","item":"Dragon Gem","nature":"Hasty","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Fusion Bolt","Dragon Breath","Zen Headbutt","Slash"]},
     "N (N's Castle)": {"level":72,"ability":"Teravolt","item":"Dragon Gem","nature":"Hasty","ivs":{"hp":30,"at":30,"df":30,"sa":30,"sp":30,"sd":30},"moves":["Bolt Strike","Dragon Claw","Giga Impact","Hone Claws"]},
   },
   "Landorus": {

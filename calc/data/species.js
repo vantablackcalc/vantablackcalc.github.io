@@ -13240,9 +13240,9 @@ var XY = {
             "hp": 90,
             "at": 75,
             "df": 75,
-            "sa": 105,
+            "sa": 90,
             "sd": 70,
-            "sp": 93
+            "sp": 98
         },
         "weightkg": 29,
         "abilities": {
